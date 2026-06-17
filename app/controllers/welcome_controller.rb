@@ -1,3 +1,3 @@
 class WelcomeController < ApplicationController
-  render 'welcome/index'
+  render "welcome/index"
 end
